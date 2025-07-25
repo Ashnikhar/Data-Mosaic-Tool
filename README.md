@@ -114,15 +114,7 @@ Feel free to [open an issue](https://github.com/Ashnikhar/Data-Mosaic-Tool/issue
 
 Created with ❤️ by [Ash Nikhar](https://github.com/Ashnikhar)
 
----
 
-## 📸 Preview
 
-![Data Mosaic Tool Screenshot](https://data-mosaic-tool.vercel.app/preview.png) <!-- Replace with actual screenshot path if added -->
 
-```
 
----
-
-Would you like me to upload this `README.md` file to your GitHub repo directly or send it as a downloadable `.md` file?
-```
